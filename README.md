@@ -10,5 +10,4 @@
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> </div>
 <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=camera-2018" /> </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Metrics](/github-metrics.svg)
