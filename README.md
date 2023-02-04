@@ -19,3 +19,5 @@
 ![](https://genshin-card.getloli.com/rand/74565109.png)
 
 <br/>
+
+![](https://wakatime.com/share/@xyxsw/baf43608-e008-4d37-a239-bb2ca2b127b9.svg)
