@@ -6,21 +6,27 @@
 
 #### Languages
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg" alt="python" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/gopher.svg" alt="go" /></code>
 
 
 #### Frameworks and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/vueuse.svg" alt="vueuse" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/unocss.svg" alt="unocss" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/netlify-icon.svg" alt="netlify" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/vercel-icon.svg" alt="vercel" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="windows" /></code>
-<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg" alt="pycharm" /></code>
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite)
@@ -29,15 +35,11 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camera-2018)
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" />
 
 <br/>
 
 ![:camera-2018](https://count.getloli.com/get/@:camera-2018)
-
-<br/>
-
-![](https://genshin-card.getloli.com/rand/74565109.png)
 
 <br/>
 
