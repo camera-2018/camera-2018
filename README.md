@@ -29,9 +29,11 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg" alt="pycharm" /></code>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite)
+![](https://github-readme-stats-xyxsw.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite)
+![](https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite)
+
+[![camera-2018(xyxsw)'s wakatime stats](https://github-readme-stats-xyxsw.vercel.app/api/wakatime?username=xyxsw)](https://wakatime.com/@xyxsw)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camera-2018)
 
