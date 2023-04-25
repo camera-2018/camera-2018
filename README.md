@@ -29,9 +29,9 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg" alt="pycharm" /></code>
 
-![](https://github-readme-stats-xyxsw.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite)
+![](https://github-readme-stats-xyxsw.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=default&langs_count=6&text_color=000&icon_color=fff&theme=graywhite&card_width=495&show_icons=true)
 
-![](https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite)
+![](https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite&card_width=495)
 
 [![camera-2018(xyxsw)'s wakatime stats](https://github-readme-stats-xyxsw.vercel.app/api/wakatime?username=xyxsw&langs_count=6)](https://wakatime.com/@xyxsw)
 
