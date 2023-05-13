@@ -33,7 +33,7 @@
 
 ![](https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite&card_width=495&show_icons=true)
 
-[![camera-2018(xyxsw)'s wakatime stats](https://github-readme-stats-xyxsw.vercel.app/api/wakatime?username=xyxsw&langs_count=6)](https://wakatime.com/@xyxsw)
+[![camera-2018(xyxsw)'s wakatime stats](https://github-readme-stats-xyxsw.vercel.app/api/wakatime?username=xyxsw&langs_count=6&range=all_time)](https://wakatime.com/@xyxsw)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camera-2018)
 
