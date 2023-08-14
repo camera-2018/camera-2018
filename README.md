@@ -15,18 +15,20 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/gopher.svg" alt="go" /></code>
 
 
+
 #### Frameworks and Tools
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vueuse.svg" alt="vueuse" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/unocss.svg" alt="unocss" /></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/react.svg" alt="react" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/netlify-icon.svg" alt="netlify" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vercel-icon.svg" alt="vercel" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual-studio-code" /></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="windows" /></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
+
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg" alt="pycharm" /></code>
 
 ![](https://github-readme-stats-xyxsw.vercel.app/api/top-langs/?username=camera-2018&hide_title=true&hide_border=true&layout=default&langs_count=6&text_color=000&icon_color=fff&theme=graywhite&card_width=495)
