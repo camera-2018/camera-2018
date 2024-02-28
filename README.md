@@ -7,12 +7,9 @@
 <img
   src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0A75E3&center=true&vCenter=true&width=335&lines=Victory+Supreme+Code"  />
 
-<br/>
-
-<div>
   <img
-    src="https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=fff&theme=dark&card_width=495&show_icons=true"  />
-</div>
+    src="https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=fff&theme=dark&card_width=495&show_icons=true" align="right"  />
+
 
 
 
