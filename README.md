@@ -1,7 +1,13 @@
 <h1>👋 Hi, I’m @camera-2018</h1>
 
+<div>
+<img style="width: 300px;" src="https://count.getloli.com/get/@:camera-2018" align="right" />
+</div>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0A75E3&center=true&vCenter=true&width=335&lines=Victory+Supreme+Code" align="center" />
+  src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0A75E3&center=true&vCenter=true&width=335&lines=Victory+Supreme+Code" />
+
+<br/>
 
 <div>
   <img
@@ -38,15 +44,31 @@
   </div>
 </div>
 
+
 <br/>
 
-<div>
-<img src="https://count.getloli.com/get/@:camera-2018" align="right" />
-</div>
 
 <div>
-  <img style="width: 500px; height: 500px;" src="https://wakatime.com/share/@xyxsw/baf43608-e008-4d37-a239-bb2ca2b127b9.svg" />
+  <img style="width: 500px; height: 500px;" src="https://wakatime.com/share/@xyxsw/baf43608-e008-4d37-a239-bb2ca2b127b9.svg" align="right" />
+  <br/>
+  <br/>
+  <br/>
+  <div>
+  <pre>
+    
+  🤓 I am a...
+  - HDU student
+  - Frontend\Script
+  - [DN11-Network](https://dn11.top) team member
+  - [IdeaLeap](https://github.com/IdeaLeap) team member
+  - I am a fan of anime.
+  - NAS storage 24TB hard drive, PT total uploads: 155.8 TiB.
+
+  </pre>
+  </div>
 </div>
+
+
 
 
 
