@@ -4,7 +4,7 @@
 <img style="width: 300px;" src="https://count.getloli.com/get/@:camera-2018" align="right" />
 </div>
 
-<br/>
+---
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0A75E3&center=true&vCenter=true&width=335&lines=Victory+Supreme+Code"  />
@@ -46,13 +46,11 @@
 </div>
 
 
-<br/>
+---
 
 
 <div>
   <img style="width: 500px; height: 500px;" src="https://wakatime.com/share/@xyxsw/baf43608-e008-4d37-a239-bb2ca2b127b9.svg" align="right" />
-  <br/>
-  <br/>
   <br/>
   <div>
   <pre>
