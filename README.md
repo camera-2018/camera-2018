@@ -62,9 +62,9 @@
   - Frontend\Script
   - [DN11-Network](https://dn11.top) team member
   - [IdeaLeap](https://github.com/IdeaLeap) team member
-  - I am a fan of anime.
-  - NAS storage 24TB hard drive.
-  - PT total uploads: 155.8 TiB.
+  - kita kita~
+  - NAS storage 31.7TB hard drive ZFS.
+  - PT total uploads: 184.8 TiB.
 
   </pre>
   </div>
