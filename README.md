@@ -58,13 +58,13 @@
   <pre>
     
   🤓 I am a...
-  - HDU student
+  - was a HDU student
   - Frontend/Network
   - [DN11-Network](https://dn11.top) team member
   - [IdeaLeap](https://github.com/IdeaLeap) team member
   - kita kita~
-  - NAS storage 31.7TB hard drive ZFS.
-  - PT total uploads: 195.2 TiB.
+  - NAS storage 33TB hard drive with ZFS.
+  - PT total uploads: 200.8 TiB.
 
   </pre>
   </div>
