@@ -67,7 +67,7 @@
   - [IdeaLeap](https://github.com/IdeaLeap) team member
   - kita kita~
   - NAS storage 33TB hard drive with ZFS.
-  - PT total uploads: 200.8 TiB.
+  - PT total uploads: 193 TiB.
 
   </pre>
   </div>
