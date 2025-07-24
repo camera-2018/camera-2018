@@ -11,10 +11,13 @@
 
 <br/>
 
-  <img
-    src="https://github-readme-stats-xyxsw.vercel.app/api?username=camera-2018&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=fff&theme=dark&card_width=495&show_icons=true" align="right"  />
-
-
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=40380042" target="_blank" align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=40380042&image_size=auto&color_scheme=dark" width="495" height="auto" align="right">
+    <img alt="Dashboard stats of @camera-2018" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=40380042&image_size=auto&color_scheme=light" width="495" height="auto" align="right">
+  </picture>
+</a>
 
 
 <div>
