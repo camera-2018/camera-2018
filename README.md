@@ -40,7 +40,6 @@
     <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg" alt="react" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/vercel-icon.svg" alt="vercel" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" /></code>
-    <code><img height="20" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual-studio-code" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
