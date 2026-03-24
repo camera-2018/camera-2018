@@ -62,11 +62,12 @@
   🤓 I am a...
   - was a HDU student
   - Frontend/Network
+  - [Astrbot](https://github.com/AstrBotDevs/Astrbot) contributer
   - [DN11-Network](https://dn11.top) team member
   - [IdeaLeap](https://github.com/IdeaLeap) team member
   - kita kita~
   - NAS storage 33TB hard drive with ZFS.
-  - PT total uploads: 193 TiB.
+  - PT total uploads: 218 TiB.
 
   </pre>
   </div>
