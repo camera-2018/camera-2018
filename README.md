@@ -25,7 +25,6 @@
   <div>
     <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" /></code>
-    <code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg" alt="python" /></code>
@@ -42,7 +41,7 @@
     <code><img height="20" src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxt" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" /></code>
     <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual-studio-code" /></code>
-    <code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
+    <code><img height="20" src="https://cdn.svglogos.dev/logos/vite-icon.svg" alt="vite" /></code>
   </div>
 </div>
 
